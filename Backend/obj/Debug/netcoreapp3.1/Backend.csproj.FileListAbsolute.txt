@@ -25,6 +25,7 @@ C:\Users\jonas\Desktop\dev\TaskBoard\Backend\bin\Debug\netcoreapp3.1\SharpCompre
 C:\Users\jonas\Desktop\dev\TaskBoard\Backend\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
 C:\Users\jonas\Desktop\dev\TaskBoard\Backend\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
 C:\Users\jonas\Desktop\dev\TaskBoard\Backend\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\jonas\Desktop\dev\TaskBoard\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\jonas\Desktop\dev\TaskBoard\Backend\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\jonas\Desktop\dev\TaskBoard\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
 C:\Users\jonas\Desktop\dev\TaskBoard\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jonas\Desktop\dev\TaskBoard\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
