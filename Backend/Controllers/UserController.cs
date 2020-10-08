@@ -8,12 +8,12 @@ namespace Backend.Controllers
 {
     [Route("api/user")]
     [ApiController]
-    public class User : ControllerBase
+    public class UserController : ControllerBase
 
     {
         private MongoDbContext mongoDb;
 
-        public User()
+        public UserController()
         {
             mongoDb = new MongoDbContext();
         }
@@ -34,9 +34,9 @@ namespace Backend.Controllers
 
         // POST api/<User>
         [HttpPost]
-        public void Post([FromBody] UserDocument user)
+        public void Post([FromBody] UserEntity user)
         {
-            mongoDb.Database.GetCollection<UserDocument>("User").InsertOne(user);
+            mongoDb.Database.GetCollection<UserEntity>("User").InsertOne(user);
         }
 
         // PUT api/<User>/5

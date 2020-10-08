@@ -4,7 +4,7 @@ using System;
 
 namespace Backend.Models
 {
-    public class MongoDocument
+    public class MongoEntity
     {
         [BsonId]
         public ObjectId Id { get; set; }
